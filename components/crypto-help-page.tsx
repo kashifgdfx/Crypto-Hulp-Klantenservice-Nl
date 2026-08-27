@@ -97,7 +97,7 @@ export function CryptoHelpPage() {
               Crypto werkt niet? <span className="text-primary">Begin hier.</span>
             </h1>
             <p className="mt-7 max-w-xl text-pretty text-lg leading-8 text-muted-foreground">
-              Praktische informatie over accounts, wallets, transacties en verificatie. Leer eerst wat u zelf veilig kunt controleren — zonder uw gegevens aan iemand af te staan. Voor verdere ondersteuning kunt u ook terecht bij onze <a href="https://helpdeskbellennummer.com/" target="_blank" rel="noopener noreferrer" className="underline text-primary">officiële helpdesk</a>.
+              Praktische informatie over accounts, wallets, transacties en verificatie. Leer eerst wat u zelf veilig kunt controleren — zonder uw gegevens aan iemand af te staan. Voor verdere ondersteuning kunt u ook terecht bij onze <a href="https://help.crypto.com/nl/" target="_blank" rel="noopener noreferrer" className="underline text-primary">officiële helpdesk</a>.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <a
@@ -141,7 +141,7 @@ export function CryptoHelpPage() {
             </div>
 
             <a
-              href="https://helpdeskbellennummer.com/"
+              href="https://help.crypto.com/nl/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 rounded-2xl border-2 border-primary bg-card p-4 text-center text-base font-bold text-foreground shadow-md transition-all hover:bg-primary hover:text-primary-foreground"
@@ -266,7 +266,7 @@ export function CryptoHelpPage() {
               <strong>Crypto Hulp Nederland</strong>
             </div>
             <p className="mt-2 max-w-md text-sm leading-6 text-primary-foreground/60">
-              Onafhankelijke informatie over veilig omgaan met crypto. Geen financieel advies en geen officiële klantenservice van een exchange. Bezoek onze <a href="https://helpdeskbellennummer.com/" target="_blank" rel="noopener noreferrer" className="underline text-primary-foreground">helpdesk</a> voor meer info.
+              Onafhankelijke informatie over veilig omgaan met crypto. Geen financieel advies en geen officiële klantenservice van een exchange. Bezoek onze <a href="https://help.crypto.com/nl/" target="_blank" rel="noopener noreferrer" className="underline text-primary-foreground">helpdesk</a> voor meer info.
             </p>
           </div>
           <div className="flex items-center gap-2 font-mono text-xs text-primary-foreground/60">
