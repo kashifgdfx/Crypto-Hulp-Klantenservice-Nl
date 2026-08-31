@@ -10,7 +10,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Crypto Problemen? Hulp & Klantenservice Nederland',
   description: 'Problemen met crypto, wallet, transactie of account? Lees veilige oplossingen en ontdek hoe u officiële crypto-ondersteuning vindt in Nederland.',
-
+  verification: {
+    google: 'Pl6fgcxV9MTphj6UBbMNfEIx0FzZnbm6pI9lQ3qaQig',
+  },
   icons: {
     icon: [
       // {
